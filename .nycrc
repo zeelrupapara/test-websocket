@@ -1,0 +1,7 @@
+{
+  "all": false,
+  "reporter": ["html", "text"],
+  "exclude": ["node_modules"],
+  "include": ["io/module.js", "io/plugin.compiled.js", "components/SocketStatus.vue"],
+  "extension": [".js", ".vue"]
+}
